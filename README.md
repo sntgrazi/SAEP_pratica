@@ -22,6 +22,6 @@ das variáveis de ambientes encontrada no arquivo `server.js`
   port: 'porta do seu banco'
 ```
 - Após a configuração das variaveis de ambiente, você abrirá outra aba no terminal e executará o comando `cd api`, após isso execute o 
-comando `npm intall` para intalar as depêndecias da api e por fim execute o comando `node server.js` para iniciar o servidor.
+comando `npm install` para intalar as depêndecias da api e por fim execute o comando `node server.js` para iniciar o servidor.
 
 
