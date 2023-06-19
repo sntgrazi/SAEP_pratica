@@ -5,11 +5,11 @@ const app = express();
 const PORT = 3000;
 
 const connection = mysql.createConnection({
-  host: 'containers-us-west-117.railway.app',
+  host: 'localhost',
   user: 'root',
-  password: 'dO8jq7plTuVNzHd3t5KZ',
-  database: 'railway',
-  port: '5810'
+  password: '',
+  database: 'saep',
+  port: '3306'
 });
 
 app.use(cors());
